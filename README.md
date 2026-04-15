@@ -8,6 +8,8 @@ The 360-Degree Customer Repository is a data integration system designed to give
 
 No more switching between tools. No more missing context. One account lookup gives you everything.
 
+![Customer Repository Workflow](./360_customer_signals_repository.svg)
+
 ## The Pipeline
 
 Data flows from four sources through Zapier normalization into Airtable:
